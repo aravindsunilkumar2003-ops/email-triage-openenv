@@ -1,0 +1,6 @@
+name: email-triage-openenv
+version: 1.0
+tasks:
+  - easy
+  - medium
+  - hard
